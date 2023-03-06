@@ -1,1 +1,2 @@
 "This is file1.txt" 
+Thos is new line in file1.txt.
